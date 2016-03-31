@@ -1,0 +1,7 @@
+{
+  "name": "xdamm",
+  "version": "0.0.1-alpha",
+  "dependencies": {
+    "ws": "^1.0.1"
+  }
+}
